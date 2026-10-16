@@ -13,7 +13,6 @@ Construo APIs e aplicações em Java e Node.js. Antes de programar profissionalm
 
 ![Java](https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,vite,git,github,idea)
 
-[, MySQL — inclua só se tiver usado]
 
 ---
 
@@ -31,12 +30,11 @@ Construo APIs e aplicações em Java e Node.js. Antes de programar profissionalm
 
 ## Em andamento
 
-- [ex.: Transformar o MRU em uma API REST com persistência em banco de dados]
-- [ex.: Testes automatizados com JUnit]
-- [ex.: Spring Boot e Docker]
+- Testes automatizados com JUnit
+- Spring Boot e Docker
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/allisson-viana-04639026b/) · [E-mail](mailto:[seu e-mail])
+[LinkedIn](https://www.linkedin.com/in/allisson-viana-04639026b/) · [E-mail](mailto:[allissonviana2@gmail.com])
