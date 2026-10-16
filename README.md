@@ -1,28 +1,42 @@
-# Olá, eu sou o Allisson 👋
+# Allisson Viana
 
-Desenvolvedor Back-End em início de carreira, cursando Bacharelado em Sistemas de Informação no IFBA e técnico em informática pelo IF Baiano. Tenho dois anos de experiência em suporte técnico, o que me deu uma visão prática de como os sistemas são usados e onde eles falham.
+**Desenvolvedor Back-End Júnior** | Java · Node.js · Express · MongoDB
+Estudante de Sistemas de Informação (IFBA) · Técnico em Informática (IF Baiano)
 
-Busco uma oportunidade como **desenvolvedor back-end júnior ou estágio**.
+Construo APIs e aplicações em Java e Node.js. Antes de programar profissionalmente, passei dois anos em suporte técnico, onde aprendi a investigar a causa de um problema, documentar a solução e explicar assuntos técnicos de forma clara. Hoje levo isso para o desenvolvimento: depuração, comunicação e foco em quem usa o sistema.
 
-## Tecnologias
+📍 Vitória da Conquista, BA · 🎯 Em busca de vaga de **desenvolvedor back-end júnior ou estágio**
 
-- **Linguagens:** Java, JavaScript
-- **Back-end:** Node.js, Express, APIs REST
-- **Banco de dados:** MongoDB [, MySQL]
-- **Front-end:** React
-- **Ferramentas:** Git, GitHub, IntelliJ IDEA
-- **Metodologia:** Scrum
+---
 
-## Projetos em destaque
+## Stack
 
-- [**Sistema de Gerenciamento de Serviços**](https://github.com/allissonvn/Sistema-de-Gerenciamento-de-Servicos): sistema fullstack em equipe, com API REST em Node.js/Express, MongoDB e interface em React.
-- [**Busca A\***](https://github.com/allissonvn/BuscaA): algoritmo A* em Java com interface Swing e comparação de 3 heurísticas.
-- [**MRU**](https://github.com/allissonvn/MRU): análise de leituras de sensores de ruído em Java, com ordenação e estudo de complexidade.
+![Java](https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,vite,git,github,idea)
 
-## Estudando agora
+[, MySQL — inclua só se tiver usado]
 
-Spring Boot, testes automatizados, Docker
+---
+
+## Projetos
+
+| Projeto | O que faz | Tecnologias |
+|---|---|---|
+| [**Sistema de Gerenciamento de Serviços**](https://github.com/allissonvn/Sistema-de-Gerenciamento-de-Servicos) | Sistema fullstack em equipe (Scrum) para gerenciar serviços em motores elétricos: clientes, produtos, fornecedores, funcionários, estoque e serviços. API REST com filtros, ordenação e inativação de registros. | Node.js, Express, MongoDB, React, Vite |
+| [**Busca A\***](https://github.com/allissonvn/BuscaA) | Encontra o menor caminho em um mapa de cidade virtual com ruas de mão única e dupla. Compara 3 heurísticas pelo custo e pelos nós expandidos. | Java, Swing, estruturas de dados |
+| [**MRU**](https://github.com/allissonvn/MRU) | Simula sensores de ruído, ordena as leituras e identifica pares de sensores com diferença de média acima de um limiar. Inclui análise de complexidade (Big-O). | Java, POO |
+
+**Minha contribuição no Sistema de Gerenciamento de Serviços:** [ex.: módulos de clientes e estoque no backend, rotas e modelos Mongoose, integração com o frontend]
+
+---
+
+## Em andamento
+
+- [ex.: Transformar o MRU em uma API REST com persistência em banco de dados]
+- [ex.: Testes automatizados com JUnit]
+- [ex.: Spring Boot e Docker]
+
+---
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/allisson-viana-04639026b/
+[LinkedIn](https://www.linkedin.com/in/allisson-viana-04639026b/) · [E-mail](mailto:[seu e-mail])
