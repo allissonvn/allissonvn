@@ -1,6 +1,6 @@
 # Allisson Viana
 
-**Desenvolvedor Back-End Júnior** | Java · Node.js · Express · MongoDB
+**Desenvolvedor Back-End Júnior** | Java · Node.js · Express · MongoDB |
 Estudante de Sistemas de Informação (IFBA) · Técnico em Informática (IF Baiano)
 
 Construo APIs e aplicações em Java e Node.js. Antes de programar profissionalmente, passei dois anos em suporte técnico, onde aprendi a investigar a causa de um problema, documentar a solução e explicar assuntos técnicos de forma clara. Hoje levo isso para o desenvolvimento: depuração, comunicação e foco em quem usa o sistema.
