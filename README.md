@@ -24,7 +24,7 @@ Construo APIs e aplicações em Java e Node.js. Antes de programar profissionalm
 | [**Busca A\***](https://github.com/allissonvn/BuscaA) | Encontra o menor caminho em um mapa de cidade virtual com ruas de mão única e dupla. Compara 3 heurísticas pelo custo e pelos nós expandidos. | Java, Swing, estruturas de dados |
 | [**MRU**](https://github.com/allissonvn/MRU) | Simula sensores de ruído, ordena as leituras e identifica pares de sensores com diferença de média acima de um limiar. Inclui análise de complexidade (Big-O). | Java, POO |
 
-**Minha contribuição no Sistema de Gerenciamento de Serviços:** [ex.: módulos de clientes e estoque no backend, rotas e modelos Mongoose, integração com o frontend]
+**Minha contribuição no Sistema de Gerenciamento de Serviços:** [Módulos de clientes e estoque no backend, rotas e modelos Mongoose, integração com o frontend]
 
 ---
 
