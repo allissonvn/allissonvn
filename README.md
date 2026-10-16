@@ -21,7 +21,7 @@ Busco uma oportunidade como **desenvolvedor back-end júnior ou estágio**.
 
 ## Estudando agora
 
-[ex.: Spring Boot, testes automatizados, Docker]
+Spring Boot, testes automatizados, Docker
 
 ## Contato
 
