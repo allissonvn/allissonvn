@@ -26,4 +26,3 @@ Busco uma oportunidade como **desenvolvedor back-end júnior ou estágio**.
 ## Contato
 
 - LinkedIn: https://www.linkedin.com/in/allisson-viana-04639026b/
-- E-mail: [seu e-mail]
