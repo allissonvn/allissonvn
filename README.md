@@ -1,40 +1,59 @@
-# Allisson Viana
+<div align="center">
 
-**Desenvolvedor Back-End Júnior** | Java · Node.js · Express · MongoDB |
-Estudante de Sistemas de Informação (IFBA) · Técnico em Informática (IF Baiano)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="light_animated.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="dark_animated.svg">
+  <img src="dark_animated.svg" width="100%" alt="Banner do perfil de Allisson Viana">
+</picture>
 
-Construo APIs e aplicações em Java e Node.js. Antes de programar profissionalmente, passei dois anos em suporte técnico, onde aprendi a investigar a causa de um problema, documentar a solução e explicar assuntos técnicos de forma clara. Hoje levo isso para o desenvolvimento: depuração, comunicação e foco em quem usa o sistema.
+<br>
 
-📍 Vitória da Conquista, BA · 🎯 Em busca de vaga de **desenvolvedor back-end júnior ou estágio**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF2D2D&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Java+%7C+Python+%7C+TypeScript+%7C+Git;Construindo+Projetos+do+Mundo+Real;Aprendendo+e+Evoluindo+Todos+os+Dias" alt="Animação de digitação"/>
 
----
-
-## Stack
-
-![Java](https://skillicons.dev/icons?i=java,js,nodejs,express,mongodb,react,vite,git,github,idea)
-
+</div>
 
 ---
 
-## Projetos
+## Atividade de Contribuições
 
-| Projeto | O que faz | Tecnologias |
-|---|---|---|
-| [**Sistema de Gerenciamento de Serviços**](https://github.com/allissonvn/Sistema-de-Gerenciamento-de-Servicos) | Sistema fullstack em equipe (Scrum) para gerenciar serviços em motores elétricos: clientes, produtos, fornecedores, funcionários, estoque e serviços. API REST com filtros, ordenação e inativação de registros. | Node.js, Express, MongoDB, React, Vite |
-| [**Busca A\***](https://github.com/allissonvn/BuscaA) | Encontra o menor caminho em um mapa de cidade virtual com ruas de mão única e dupla. Compara 3 heurísticas pelo custo e pelos nós expandidos. | Java, Swing, estruturas de dados |
-| [**MRU**](https://github.com/allissonvn/MRU) | Simula sensores de ruído, ordena as leituras e identifica pares de sensores com diferença de média acima de um limiar. Inclui análise de complexidade (Big-O). | Java, POO |
+<div align="center">
 
-**Minha contribuição no Sistema de Gerenciamento de Serviços:** Módulos de clientes e estoque no backend, rotas e modelos Mongoose, integração com o frontend
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake-dark.svg">
 
----
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake.svg">
 
-## Em andamento
+  <img width="100%"
+       alt="Atividade de contribuições"
+       src="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
-- Testes automatizados com JUnit
-- Spring Boot e Docker
+</div>
 
 ---
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/allisson-viana-04639026b/) · [E-mail](mailto:[allissonviana2@gmail.com])
+<div align="center">
+
+<a href="mailto:SEU-EMAIL@exemplo.com">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-C1121F?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</picture>
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF2D2D">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=C1121F">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF2D2D" alt="LinkedIn">
+</picture>
+</a>
+
+</div>
