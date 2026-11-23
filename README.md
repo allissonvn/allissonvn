@@ -1,59 +1,39 @@
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="light_animated.svg">
   <source media="(prefers-color-scheme: dark)" srcset="dark_animated.svg">
   <img src="dark_animated.svg" width="100%" alt="Banner do perfil de Allisson Viana">
 </picture>
-
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=FF2D2D&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Java+%7C+Python+%7C+TypeScript+%7C+Git;Construindo+Projetos+do+Mundo+Real;Aprendendo+e+Evoluindo+Todos+os+Dias" alt="Animação de digitação"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=2D8CFF&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+Forma%C3%A7%C3%A3o;Java+%7C+Python+%7C+TypeScript+%7C+Git;Construindo+Projetos+do+Mundo+Real;Aprendendo+e+Evoluindo+Todos+os+Dias" alt="Animação de digitação"/>
 </div>
-
 ---
-
-## Atividade de Contribuições
-
+Atividade de Contribuições
 <div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
+<source media="(prefers-color-scheme: light)"
           srcset="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake.svg">
-
-  <img width="100%"
-       alt="Atividade de contribuições"
-       src="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake-dark.svg">
+<img width="100%"alt="Atividade de contribuições"src="https://github.com/allissonvn/allissonvn/raw/output/github-contribution-grid-snake-dark.svg">
 </picture>
-
 </div>
-
 ---
-
-## Contato
-
+Contato
 <div align="center">
-
-<a href="mailto:allissonviana8@gmail.com">
+<a href="mailto:SEU-EMAIL@exemplo.com">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-C1121F?style=for-the-badge&logo=gmail&logoColor=white">
-<img src="https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-2D8CFF?style=for-the-badge&logo=gmail&logoColor=white">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-0B5FD6?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-2D8CFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </picture>
 </a>
-
-&nbsp;&nbsp;&nbsp;
-
+   
 <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF2D2D">
-<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=C1121F">
-<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=FF2D2D" alt="LinkedIn">
+<source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=2D8CFF">
+<source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-F5F5F5?style=for-the-badge&logo=linkedin&logoColor=0B5FD6">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=2D8CFF" alt="LinkedIn">
 </picture>
 </a>
-
 </div>
