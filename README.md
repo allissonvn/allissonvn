@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<a href="mailto:SEU-EMAIL@exemplo.com">
+<a href="mailto:allissonviana8@gmail.com">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-FF2D2D?style=for-the-badge&logo=gmail&logoColor=white">
 <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-C1121F?style=for-the-badge&logo=gmail&logoColor=white">
