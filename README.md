@@ -2,7 +2,7 @@
 
 <br><br>
 
-<b>Desenvolvedor Back-End Júnior</b> | Java · Node.js · Express · MongoDB<br> Estudante de Sistemas de Informação (IFBA) · Técnico em Informática (IF Baiano)
+<b>Desenvolvedor Back-End Júnior</b> | Java · Node.js · Express · MongoDB · Dart<br> Estudante de Sistemas de Informação (IFBA) · Técnico em Informática (IF Baiano)
 
 </div> <br>
 
