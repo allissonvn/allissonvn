@@ -20,7 +20,7 @@
     </circle>
     <rect x="0" y="0" width="1000" height="4" fill="#0B5FD6"/>
     <text x="70" y="75" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="18" fill="#0B5FD6">
-      <tspan>$ whoami</tspan>
+      <tspan>$ midaszin</tspan>
       <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
     </text>
     <text x="70" y="140" font-family="JetBrains Mono, Consolas, Menlo, monospace" font-size="62" font-weight="800" fill="#111111">Allisson Viana
